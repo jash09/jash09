@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jash</h1>
 <h3 align="center">Just a guy trying to figure out stuff!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jash09" alt="jash09" /></a> </p>
-
 - 📫 How to reach me **jash.shah407@gmail,com**
 
 <h3 align="left">Connect with me:</h3>
